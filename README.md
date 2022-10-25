@@ -9,6 +9,8 @@ I'm Aline de Cantalice Mendes. I've been working on web projects for 2+ years.
 
 I love learning new things and working with nice people.
 
+#
+
 ### 🔭 I’m currently working on:
  - Web Full Stack Developer
 
@@ -17,6 +19,8 @@ I love learning new things and working with nice people.
  
 ### 📫 How to reach me:
  By email: alinedecantalice@gmail.com
+ 
+#
  
 ### 💻 Programming Languages and more:
 
@@ -57,6 +61,7 @@ I love learning new things and working with nice people.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 #
 
 ### 📊 Statitics:
