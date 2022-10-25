@@ -13,7 +13,7 @@ I love learning new things and working with nice people.
  - Web Full Stack Developer
 
 ### 🌱 I’m currently learning:
- - I'm currently deepening my knowledge about the technologies I've learned by creating a project from zero.
+ - I'm currently deepening my knowledge about the technologies I've learned by creating a project from scratch.
  
 ### 📫 How to reach me:
  By email: alinedecantalice@gmail.com
